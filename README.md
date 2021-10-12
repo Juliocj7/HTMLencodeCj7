@@ -36,7 +36,9 @@
 
 ## Sintaxis JavaScript:
 
+~~~
 <script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
+~~~
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
