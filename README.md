@@ -23,8 +23,11 @@
 </details>
 
 ## HTMLencodeCj7 :
+![Screenshot_20211012-120909_Chrome](https://user-images.githubusercontent.com/81049859/136993447-110d8d7a-4018-4c5f-8691-da0e1edae4b5.png)
+![Screenshot_20211012-120917_Chrome](https://user-images.githubusercontent.com/81049859/136993477-5a405012-c419-45c8-b726-c07208e9e24f.png)
 
 ## Ejemplo :
+![Screenshot_20211012-121439_Termux](https://user-images.githubusercontent.com/81049859/136993499-9e6e4f9c-8dfc-49c0-97cd-871dfc302b59.png)
 
 ## HTMLencodeCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
