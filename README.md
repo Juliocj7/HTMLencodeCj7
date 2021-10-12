@@ -22,13 +22,11 @@
 
 </details>
 
-## UrlEncodeCj7 Linux :
-![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
+## HTMLencodeCj7 :
 
-## UrlEncodeCj7 Online :
-![Screenshot_20211005-082847_Chrome](https://user-images.githubusercontent.com/81049859/136023059-79b99ce5-4761-470f-8f59-86779bc54caf.png)
+## Ejemplo :
 
-## UrlEncodeCj7 :
+## HTMLencodeCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
