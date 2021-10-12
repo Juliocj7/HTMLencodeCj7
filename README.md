@@ -30,27 +30,13 @@
 ![Screenshot_20211012-121439_Termux](https://user-images.githubusercontent.com/81049859/136993499-9e6e4f9c-8dfc-49c0-97cd-871dfc302b59.png)
 
 ## HTMLencodeCj7 :
-* **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
+* **Ofusca y Desofusca** documentos HTML (o fragmentos de la misma) de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Instalación :
+## Sintaxis JavaScript:
 
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
-
-* ` apt update && apt upgrade -y `
-
-* ` git clone https://github.com/Juliocj7/UrlEncodeCj7 `
-
-* ` cd UrlEncodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./UrlEncodeCj7 `
+<script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
