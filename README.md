@@ -27,7 +27,7 @@
 ![Screenshot_20211012-120917_Chrome](https://user-images.githubusercontent.com/81049859/136993477-5a405012-c419-45c8-b726-c07208e9e24f.png)
 
 ## Ejemplo :
-![Screenshot_20211012-121439_Termux](https://user-images.githubusercontent.com/81049859/136993499-9e6e4f9c-8dfc-49c0-97cd-871dfc302b59.png)
+![1000328314](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/42a4b76d-cdb3-4cef-8820-870bd7b51b00)
 
 ## HTMLencodeCj7 :
 * **Ofusca y Desofusca** documentos HTML (o fragmentos de la misma) de una manera rápida y sencilla.
