@@ -40,6 +40,22 @@
 <script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
 ~~~
 
+## Instalación :
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
+
+```bash
+  yes|apt update && apt upgrade
+```
+
+* ` git clone https://github.com/Juliocj7/HTMLencodeCj7 `
+
+* ` cd HTMLencodeCj7 `
+
+* ` chmod +x * `
+
+* ` ./HTMLencodeCj7 `
+
 ---
 ###### `Pd: Porfavor informar cualquier error`
 ###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
