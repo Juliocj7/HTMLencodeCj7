@@ -43,8 +43,8 @@ ______________________________________________________
 </div>
 
 ## Website :
-![Screenshot_20211012-120909_Chrome](https://user-images.githubusercontent.com/81049859/136993447-110d8d7a-4018-4c5f-8691-da0e1edae4b5.png)
-![Screenshot_20211012-120917_Chrome](https://user-images.githubusercontent.com/81049859/136993477-5a405012-c419-45c8-b726-c07208e9e24f.png)
+![1000330837](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/d8802191-45e4-4dd2-8335-9095b99126ed)
+![1000330838](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/0270b6ed-2a7a-48b1-976d-fef9448bedbd)
 
 ## Ejemplo :
 ![1000328314](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/42a4b76d-cdb3-4cef-8820-870bd7b51b00)
