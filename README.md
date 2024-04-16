@@ -46,35 +46,41 @@ ______________________________________________________
 ![Screenshot_20211012-120909_Chrome](https://user-images.githubusercontent.com/81049859/136993447-110d8d7a-4018-4c5f-8691-da0e1edae4b5.png)
 ![Screenshot_20211012-120917_Chrome](https://user-images.githubusercontent.com/81049859/136993477-5a405012-c419-45c8-b726-c07208e9e24f.png)
 
-## Sample :
+## Ejemplo :
 ![1000328314](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/42a4b76d-cdb3-4cef-8820-870bd7b51b00)
 
+<div align="center">
+
+  > Sintaxis `Javascript`:
+
+</div>
+
+
+```js
+<script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
+```
+
 ## HTMLencodeCj7 :
-* **Ofusca y Desofusca** documentos HTML (o fragmentos de la misma) de una manera rápida y sencilla.
+* Ofusca y desofusca documentos HTML5 (o fragmentos de las mismas) de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
-
-## Sintaxis JavaScript:
-
-~~~
-<script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
-~~~
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/HTMLencodeCj7 `
-
-* ` cd HTMLencodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./HTMLencodeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/HTMLencodeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd HTMLencodeCj7 && chmod +x * && ./HTMLencodeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
