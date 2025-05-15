@@ -42,11 +42,12 @@
 </div>
 
 ## Sitio Web :
-![1000330837](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/d8802191-45e4-4dd2-8335-9095b99126ed)
-![1000330838](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/0270b6ed-2a7a-48b1-976d-fef9448bedbd)
+[![1000330837](https://github.com/user-attachments/assets/7fef110e-0f95-47be-849a-80ceaab30a7f)](#---)
+[![1000330838](https://github.com/user-attachments/assets/4192f813-b6e0-40a0-8be9-9c118231cc40)](#---)
 
-## Ejemplo :
-![1000328314](https://github.com/Juliocj7/HTMLencodeCj7/assets/81049859/42a4b76d-cdb3-4cef-8820-870bd7b51b00)
+|𝚝𝚎𝚜𝚝|
+|:--:|
+|[![1000328314](https://github.com/user-attachments/assets/c930a6aa-317b-4e42-94ff-76272c22706d)](#---)|
 
 <div align="center">
 
@@ -55,7 +56,7 @@
 </div>
 
 ```js
-<script language="javascript"> <!-- document.write(unescape('s')); //--> </script>
+<script> <!-- document.write(unescape('s')); //--> </script>
 ```
 
 ## HTMLencodeCj7 :
